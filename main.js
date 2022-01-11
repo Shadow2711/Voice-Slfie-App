@@ -27,7 +27,7 @@ function speak(){
     save();
     },5000);
 }
-camera = document.getElementById(camera);
+camera = document.getElementById("camera");
 Webcam.set({
     width: 360,
     height: 250,
